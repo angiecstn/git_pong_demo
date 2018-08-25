@@ -1,5 +1,10 @@
-# learning git_pong_
+# Learning Git Pong
 
-saturday evening learning git pong 
+Saturday evening learning git pong collaboration protocol
+
+```ruby
+name = "thomas"
+puts name.upcase
+```
 
 
