@@ -1,2 +1,5 @@
-# git_pong_demo
-Gitpong exercise 
+# learning git_pong_
+
+saturday evening learning git pong 
+
+
