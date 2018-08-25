@@ -8,4 +8,4 @@ puts name.upcase
 ```
 
 
-this is awesome 
+This is awesome!
